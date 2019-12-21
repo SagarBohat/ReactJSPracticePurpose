@@ -1,2 +1,2 @@
-# ReactJSPracticePurpose
-Just for pracitce purpose of React JS
+# ReactJS Redux
+Just for pracitce purpose of React JS and Redux
